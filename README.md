@@ -1,5 +1,6 @@
 # Seismic Ray Tracing
 ![Example ray tracing output](ray_tracing_example.png)
+
 This project explores numerical ray tracing in layered Earth models to simulate the propagation of seismic waves through subsurface structures.
 
 ## Overview
